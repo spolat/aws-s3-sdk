@@ -1,0 +1,16 @@
+{
+  "name": "aws-s3-sdk",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.188.0",
+    "config": "^1.29.2"
+  },
+  "devDependencies": {},
+  "description": ""
+}
